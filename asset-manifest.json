@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/politicalquiz/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/politicalquiz/static/js/main.1c442680.chunk.js",
+    "main.js.map": "/politicalquiz/static/js/main.1c442680.chunk.js.map",
+    "runtime-main.js": "/politicalquiz/static/js/runtime-main.c76b79fe.js",
+    "runtime-main.js.map": "/politicalquiz/static/js/runtime-main.c76b79fe.js.map",
+    "static/js/2.43a082a8.chunk.js": "/politicalquiz/static/js/2.43a082a8.chunk.js",
+    "static/js/2.43a082a8.chunk.js.map": "/politicalquiz/static/js/2.43a082a8.chunk.js.map",
+    "index.html": "/politicalquiz/index.html",
+    "precache-manifest.b78913653fd48c8aad0f5cb6bbe3893e.js": "/politicalquiz/precache-manifest.b78913653fd48c8aad0f5cb6bbe3893e.js",
+    "service-worker.js": "/politicalquiz/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/politicalquiz/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.43a082a8.chunk.js.LICENSE.txt": "/politicalquiz/static/js/2.43a082a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c76b79fe.js",
+    "static/js/2.43a082a8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1c442680.chunk.js"
+  ]
+}
