@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/politicalquiz/static/css/main.bc31f057.chunk.css",
-    "main.js": "/politicalquiz/static/js/main.9bb308c1.chunk.js",
-    "main.js.map": "/politicalquiz/static/js/main.9bb308c1.chunk.js.map",
+    "main.js": "/politicalquiz/static/js/main.7d58fc30.chunk.js",
+    "main.js.map": "/politicalquiz/static/js/main.7d58fc30.chunk.js.map",
     "runtime-main.js": "/politicalquiz/static/js/runtime-main.c76b79fe.js",
     "runtime-main.js.map": "/politicalquiz/static/js/runtime-main.c76b79fe.js.map",
     "static/js/2.fa8c71da.chunk.js": "/politicalquiz/static/js/2.fa8c71da.chunk.js",
     "static/js/2.fa8c71da.chunk.js.map": "/politicalquiz/static/js/2.fa8c71da.chunk.js.map",
     "index.html": "/politicalquiz/index.html",
-    "precache-manifest.bc400ca8e95026a8cf94e3d2c7711427.js": "/politicalquiz/precache-manifest.bc400ca8e95026a8cf94e3d2c7711427.js",
+    "precache-manifest.e048c2945b737bc6868a731a740c3ae1.js": "/politicalquiz/precache-manifest.e048c2945b737bc6868a731a740c3ae1.js",
     "service-worker.js": "/politicalquiz/service-worker.js",
     "static/css/main.bc31f057.chunk.css.map": "/politicalquiz/static/css/main.bc31f057.chunk.css.map",
     "static/js/2.fa8c71da.chunk.js.LICENSE.txt": "/politicalquiz/static/js/2.fa8c71da.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c76b79fe.js",
     "static/js/2.fa8c71da.chunk.js",
     "static/css/main.bc31f057.chunk.css",
-    "static/js/main.9bb308c1.chunk.js"
+    "static/js/main.7d58fc30.chunk.js"
   ]
 }

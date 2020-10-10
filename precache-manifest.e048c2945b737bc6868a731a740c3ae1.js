@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73990f8cae855aca93c1c71d90a0702e",
+    "revision": "93c28e5874f32a970ca590f9a2cdbacb",
     "url": "/politicalquiz/index.html"
   },
   {
-    "revision": "3718f19e3ea52473d234",
+    "revision": "22a463cf263a85177739",
     "url": "/politicalquiz/static/css/main.bc31f057.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/politicalquiz/static/js/2.fa8c71da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3718f19e3ea52473d234",
-    "url": "/politicalquiz/static/js/main.9bb308c1.chunk.js"
+    "revision": "22a463cf263a85177739",
+    "url": "/politicalquiz/static/js/main.7d58fc30.chunk.js"
   },
   {
     "revision": "8bed4afacd54a3153732",
